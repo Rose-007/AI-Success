@@ -1,7 +1,7 @@
 ## 📜 License
 
 - 📂 **โค้ดและซอฟต์แวร์**: [MIT License](LICENSE_CODE_MIT.txt)  
-- 📂 **เนื้อหา บทความ คำปรึกษา สคริปต์**: [Creative Commons BY-NC-SA 4.0](LICENSE_CONTENT_CC-BY-NC-SA-4.0.txt)
+- 📂 **เนื้อหา บทความ คำปรึกษา สคริปต์**: [Creative Commons BY-NC-SA 4.0 License](LICENSE_CONTENT_CC-BY-NC-SA-4.0.txt)
 
 ---
 
