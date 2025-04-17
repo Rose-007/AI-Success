@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "☰",
+    "description": "ฟ้า (หยางบริบูรณ์)",
+    "lines": [
+      1,
+      1,
+      1
+    ],
+    "time": "11:31-14:30 (ยาม 1)",
+    "direction": "East",
+    "elemental_tone": "ว่างกระจ่างโล่ง",
+    "emotional_aura": "สว่าง มั่นใจ",
+    "environmental_theme": "ท้องฟ้ากระจ่าง",
+    "spiritual_rhythm": "การสร้างสรรค์, ดลบันดาล",
+  },
+  {
+    "id": 2,
+    "name": "☱",
+    "description": "สระ",
+    "lines": [
+      1,
+      1,
+      0
+    ],
+    "time": "14:31-17:30 (ยาม 2)",
+    "direction": NE",
+    "elemental_tone": "สะท้อนตา",
+    "emotional_aura": "ปิติ เอิ่อล้น",
+    "environmental_theme": "ชุมชื่น ซึมซาบไป",
+    "spiritual_rhythm": "ดื่มด่ำ เพื่อแพร่",
+  },
+  {
+    "id": 3,
+    "name": "☲",
+    "description": "ไฟ",
+    "lines": [
+      1,
+      0,
+      1
+    ],
+    "time": "17:31-20:30 (ยาม 3)",
+    "direction": "North",
+    "elemental_tone": "สุกสว่าง",
+    "emotional_aura": "ส่องไปไกล มั่นใจ ",
+    "environmental_theme": "ร้อนแรง เจิดจ้า",
+    "spiritual_rhythm": "พุ่งแรงแต่มีสมาธิ",
+  },
+  {
+    "id": 4,
+    "name": "☳",
+    "description": "สายฟ้า",
+    "lines": [
+      1,
+      0,
+     0
+    ],
+    "time": "5:31-8:30 (ยาม 7)",
+    "direction": "South",
+    "elemental_tone": "เป็นประกาย",
+    "emotional_aura": "รุนแรง ฉับไว",
+    "environmental_theme": "ครึ้มฟ้า ครึ้มฟน",
+    "spiritual_rhythm": "หวาดเสียว น่าสพึงกลัว",
+  },
+  {
+    "id": 5,
+    "name": "☴",
+    "description": "ลม",
+    "lines": [
+      0,
+      1,
+      1
+    ],
+    "time": "2:31-5:30 (ยาม 6)",
+    "direction": "SW",
+    "elemental_tone": "ไร้สี เบาบาง",
+    "emotional_aura": "โปร่งโล่ง",
+    "environmental_theme": "ทุ่งโล่ง",
+    "spiritual_rhythm": "ลมหมุน",
+  },
+  {
+    "id": 6,
+    "name": "☵",
+    "description": "น้ำ",
+    "lines": [
+      0,
+      1,
+      0
+    ],
+    "time": "23:31-2:30 (ยาม 5)",
+    "direction": "West",
+    "elemental_tone": "มืดมิด",
+    "emotional_aura": "หดหู่ เกียจค้าน",
+    "environmental_theme": "แสงจันทร์ส่อง",
+    "spiritual_rhythm": "คลุมเคลือ",
+  },
+  {
+    "id": 7,
+    "name": "☶",
+    "description": "ภูเขา",
+    "lines": [
+      0,
+      0,
+      1
+    ],
+    "time": "20:31-23:30 (ยาม 4)",
+    "direction": "NW",
+    "elemental_tone": "earth tone",
+    "emotional_aura": "ทรนง ใหญ่เกินไป",
+    "environmental_theme": "ยากลำบาก อดกั้น",
+    "spiritual_rhythm": "สงบ",
+  },
+  {
+    "id": 8,
+    "name": "☷",
+    "description": "ดิน (หยินบริบูรณ์)",
+    "lines": [
+      0,
+      0,
+      0
+    ],
+    "time": "8:31-11:30 (ยาม 8)",
+    "direction": "SE",
+    "elemental_tone": "เข้ม",
+    "emotional_aura": "มั่นคง หนักแน่น",
+    "environmental_theme": "พื้นที่ราบ",
+    "spiritual_rhythm": "พร้อมรับ นอบน้อม",
+  }
+]
