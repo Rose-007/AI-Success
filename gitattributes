@@ -1,0 +1,11 @@
+# Ensure text files use LF line endings
+* text=auto eol=lf
+
+# Treat JSON as UTF-8 encoded text
+*.json text working-tree-encoding=UTF-8
+
+# Exclude private folder from diff/merge if desired
+/private/* -diff -merge
+
+# Mark documentation as linguistically relevant
+*.md linguist-documentation

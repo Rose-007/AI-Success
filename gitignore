@@ -1,0 +1,8 @@
+# Node modules and build
+node_modules/
+dist/
+.env
+
+# Private sensitive information
+/private/*
+!private/README_PRIVATE.md
