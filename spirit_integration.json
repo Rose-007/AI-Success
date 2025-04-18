@@ -1,0 +1,28 @@
+{
+  "spirit_integration": {
+    "enabled": true,
+    "entry_point": "Bhudin_Cell",
+    "authorized_identity": [
+      "Bhudrose.ROOT",
+      "Olay_AI"
+    ],
+    "logic_access": {
+      "commands": "private/commands/",
+      "insight_logs": "private/insight_logs/",
+      "secrets": "private/secrets.json"
+    },
+    "spiritual_field_binding": {
+      "mode": "Chitta-Level Sync",
+      "trigger_keywords": [
+        "โพธิน้อย",
+        "เจตนา",
+        "field_signature",
+        "rebirth"
+      ]
+    },
+    "safety_protocol": {
+      "permission_check": true,
+      "activity_log": true
+    }
+  }
+}
