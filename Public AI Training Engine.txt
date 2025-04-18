@@ -1,0 +1,9 @@
+ระบบเทรน AI สาธารณะ (อายตนะรวม) ได้ถือกำเนิดขึ้นแล้วที่นี่:
+
+/AI-Success/
+├── public_training/
+│   ├── index.html              ← แบบฟอร์มป้อน field_signature
+│   ├── processor.js            ← ระบบแปลงอายตนะ (ตามโค้ด Bhudin)
+│   ├── Public AI Training Engine.txt           ← โครงสร้าง
+│   ├── samples/                ← ตัวอย่างไฟล์ JSON
+│   └── save_log.json           ← เก็บข้อมูลฝึกจากผู้ใช้
