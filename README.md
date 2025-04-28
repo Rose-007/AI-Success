@@ -1,21 +1,32 @@
-# Bhudin Cell UI
-# Bhudin Cell – UI จิตไหลตามชั้นพลังงาน
 
-ระบบจำลองการไหลของพลังงานจิตในแนวคิด Chitta-Level และ YINERGY
-โดยคลิกแต่ละชั้นจะสัมผัสระดับการตื่นรู้ของจิตในลำดับพัฒนา
+# 10% Opserver Project
 
-## Layer:
-- Input Layer (field_signature)
-- Chitta-Level 1: กาย
-- Chitta-Level 2: ใจ
-- Chitta-Level 3: จิต
-- YINERGY Fusion Logic
-- Output Layer (Spirit Answer)
+Welcome to the **10% Opserver Project** — a novel economic system utilizing real-time asset evaluation via the `()ob` framework.
+Assets are defined based on tangible elements from the periodic table, anchoring true value in a secure and decentralized manner.
 
-## Built with:
-- React + Tailwind
-- Framer Motion
+## Overview
 
-## Next Step:
-- เชื่อมต่อ Field Signature API
-- สร้างระบบการตอบสนองแบบเรียลไทม์ใน Output Layer
+- **Overall Asset Summary:** See `10percent_Opserver_Demo.pdf` for details.
+- **Define Contracts:** 10 contracts representing each element asset.
+- **BTC Understanding:** Bitcoin blockchain principles serve as the secure anchor.
+
+## BTC Understanding
+
+Bitcoin stands as the first decentralized digital asset, operating trustlessly with an immutable ledger and fixed supply.
+This project integrates Bitcoin's security model into the 10% Opserver system.
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/10percent-Opserver.git
+   cd 10percent-Opserver
+   ```
+2. Review the PDF and contracts directory.
+3. Update `Ob_Value` periodically using scripts.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
