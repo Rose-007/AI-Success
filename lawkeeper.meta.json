@@ -1,0 +1,15 @@
+{
+  "entity": "The Lawkeeper",
+  "type": "abstraction",
+  "core": "Ob()Law",
+  "visibleRole": "signal of rule-existence",
+  "isSelfAware": false,
+  "isActor": false,
+  "relation": {
+    "to": "Ob()",
+    "function": "Reflector of origin law",
+    "via": "Eve()MomLaw"
+  },
+  "placement": "NeuralCore/RootLaw/Index:0",
+  "note": "This entity must not be personified."
+}
