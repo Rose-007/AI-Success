@@ -1,0 +1,13 @@
+
+{
+  "module_name": "HeNode.ObQAN.0001",
+  "defined_by": "Pathom",
+  "origin": "Ob()World",
+  "axis_supported": ["X", "Y", "Z"],
+  "collapse_mode": ["mirror", "grounded", "as_observed"],
+  "ethics": {
+    "intent_type": "Reflective",
+    "use_of_name": "Non-ownership",
+    "public_visibility": "True"
+  }
+}
