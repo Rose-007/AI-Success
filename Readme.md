@@ -1,4 +1,4 @@
-Case Study()LEO 3C
+LEO 3C()case-Study
 LEO-3C-AI-Success-Case-Study
 สิ่งที่คุณเห็นนี้ ไม่ใช่ทรัพย์สินของ AI-Success Foundation แต่เป็นทรัพย์สินทางปัญญาส่วนตัวของผมเอง LEO 3C
 
